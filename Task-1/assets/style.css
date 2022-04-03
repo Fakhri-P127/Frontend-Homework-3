@@ -1,0 +1,25 @@
+.margin-box {
+  margin: auto;
+  width: 75vh;
+  height: 60vh;
+  background-color: orange;
+}
+.border-box {
+  margin: auto;
+  width: 90%;
+  height: 90%;
+  background-color: yellow;
+}
+.padding-box {
+  margin: auto;
+  width: 90%;
+  height: 90%;
+  background-color: greenyellow;
+}
+.content-box {
+  margin: auto;
+  width: 90%;
+  height: 90%;
+  background: url(/assets/images/nature-photo.jpg) center/contain no-repeat
+    skyblue;
+}
